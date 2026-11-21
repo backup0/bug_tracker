@@ -1,0 +1,13 @@
+# Bug Tracking program written with ASP.Net Core (Razor)
+
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/main.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/loginpage.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/logged_in_view.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/detailsview.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/userview.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/adding_comment.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/aftercomment.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/report_new_bug.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/assigned.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/notassigned.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/admint.png)
