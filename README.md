@@ -7,36 +7,37 @@ Demo bug tracker to show C# and ASP.Net skills. Some features are missing; for e
 - Single tenant (can easily be modified for multi tenant use)
 
 Back end database is SQLite.
-
-Main page
+<br>
+<br>
+Main page<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/main.png)
-
-Login page
+<br><br>
+Login page<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/loginpage.png)
-
-After logging in (user name at the top)
+<br><br>
+After logging in (user name at the top)<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/logged_in_view.png)
-
-Details of the report
+<br><br>
+Details of the report<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/detailsview.png)
-
-Drop down list with registered users
+<br><br>
+Drop down list with registered users<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/userview.png)
-
-Adding a new comment
+<br><br>
+Adding a new comment<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/adding_comment.png)
-
-Comment added
+<br><br>
+Comment added<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/aftercomment.png)
-
-Report new bug
+<br><br>
+Report new bug<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/report_new_bug.png)
-
+<br><br>
 Person assigned to a report (person in charge) can change priority and add comments
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/assigned.png)
-
-.. other users cannot.
+<br><br>
+.. other users cannot.<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/notassigned.png)
-
-Admin can assign person in charge and add comments and change priority.
+<br><br>
+Admin can assign person in charge and add comments and change priority.<br>
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/admint.png)
