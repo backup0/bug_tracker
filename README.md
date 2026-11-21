@@ -1,6 +1,6 @@
 # Bug Tracking program written with ASP.Net Core (Razor)
 
-Demo bug tracker to show C# and ASP.Net skills. Some features are missing; for example
+Demo bug tracker to show C# and ASP.Net skills. Some features are missing (I made this in 12 hours ;)); for example
 
 - User authentication not properly done. Just a simple check.
 - No log in persistence
