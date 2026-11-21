@@ -40,4 +40,4 @@ Person assigned to a report (person in charge) can change priority and add comme
 ![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/notassigned.png)
 <br><br>
 Admin can assign person in charge and add comments and change priority.<br>
-![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/admint.png)
+![img](https://raw.githubusercontent.com/backup0/bug_tracker/refs/heads/main/screenshots/admin.png)
